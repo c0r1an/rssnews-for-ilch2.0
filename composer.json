@@ -1,0 +1,19 @@
+{
+    "name": "teamkillclub/rssnews-for-ilch2.0",
+    "description": "RSSNEWS module for Ilch 2.0",
+    "type": "ilch-module",
+    "license": "MIT",
+    "version": "1.0.0",
+    "keywords": [
+        "ilch",
+        "ilch-2",
+        "rss",
+        "news",
+        "aggregator"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Rssnews\\": ""
+        }
+    }
+}
